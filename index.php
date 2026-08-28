@@ -1,14 +1,8 @@
-<!DOCTYPE html>
 <html>
+<head>
+  <title>PHP Test</title>
+</head>
 <body>
- 
-<?php
-echo 'My first PHP script!';
-?>
-
+  <?php echo "Hello World!"; ?>
 </body>
 </html>
-
-<!-- <?php echo 'My first PHP script!'; ?> -->
-
-echo 'My first PHP script!';
