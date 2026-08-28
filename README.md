@@ -1,3 +1,3 @@
-## AI Agent
+# PHP The Powerhouse
 
-## A simple ai agent project using MERN Stack
+## My own journey to learn and explore PHP
